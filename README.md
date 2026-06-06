@@ -1,4 +1,4 @@
-# Rabet: An Enterprise Corporate Management & Indoor Tracking Ecosystem 🚀🏢
+# Rabet: An Enterprise Corporate Management & Indoor Tracking Ecosystem 
 
 **Rabet** (رابط) is a comprehensive, production-ready **Corporate Management System** designed to streamline enterprise operations, optimize resource management, and enhance workplace productivity. Beyond traditional management software, Rabet integrates an IoT-based **Indoor Positioning System (IPS)** as a core subsystem, bridging physical space tracking with digital corporate administration.
 
